@@ -1,0 +1,267 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro for Workstations; OS build 19042.1466; Version 2009; 64bit' Language: 'en' Physical Memory: 65368 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/nfarber/Documents/Personal/Asset Store/SoundController/SoundControllerWorkspace
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53496
+Successfully changed project path to: C:/Users/nfarber/Documents/Personal/Asset Store/SoundController/SoundControllerWorkspace
+C:/Users/nfarber/Documents/Personal/Asset Store/SoundController/SoundControllerWorkspace
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 19.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/nfarber/Documents/Personal/Asset Store/SoundController/SoundControllerWorkspace/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro P4000 (ID=0x1bb1)
+    Vendor:   
+    VRAM:     8089 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002558 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 21.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.635400 ms (FindLiveObjects: 0.186900 ms CreateObjectMapping: 0.060400 ms MarkObjects: 1.319200 ms  DeleteObjects: 0.067300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(eb707253c4d8c6347a84dfbffe0f22af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(eb707253c4d8c6347a84dfbffe0f22af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2622eccc732e69daff2d069d6bdfd5a1') in 0.006337 seconds
+  Import took 0.008055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.889056 seconds.
+  path: Assets/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73375568fee951cd03f03eadad72722f') in 0.011711 seconds
+  Import took 0.013683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001251 seconds.
+  path: Assets/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73375568fee951cd03f03eadad72722f') in 0.004437 seconds
+  Import took 0.006357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.152389 seconds.
+  path: Assets/DemoScnee.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DemoScnee.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de43e552af653857d0a79e65aaefc2cf') in 0.005798 seconds
+  Import took 0.007675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.568885 seconds.
+  path: Assets/DemoScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DemoScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c05725cc40aa39fd8caf3b19706baaa3') in 0.006065 seconds
+  Import took 0.008019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.425865 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f6a1853b736837ecfb0820a881449cb') in 0.006866 seconds
+  Import took 0.008971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.325838 seconds.
+  path: Assets/SoundController
+  artifactKey: Guid(6ed8babd2ca5bc1459231ba926922e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundController using Guid(6ed8babd2ca5bc1459231ba926922e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b236e0ffb925e929fd7f1f26750640') in 0.006709 seconds
+  Import took 0.008462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.176803 seconds.
+  path: Assets/SoundController/Scripts
+  artifactKey: Guid(86952bfd74c9c9341b405b96d5bf550e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundController/Scripts using Guid(86952bfd74c9c9341b405b96d5bf550e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8e88528677adc78e83ec73d6c9bd93') in 0.006547 seconds
+  Import took 0.008194 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.710 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.833400 ms (FindLiveObjects: 0.191100 ms CreateObjectMapping: 0.048000 ms MarkObjects: 1.544700 ms  DeleteObjects: 0.047800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.097711 seconds.
+  path: Assets/SoundController/Scripts/SoundController.cs
+  artifactKey: Guid(1fde8de53ef5ce04382e2d1814871aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundController/Scripts/SoundController.cs using Guid(1fde8de53ef5ce04382e2d1814871aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82be8aab01f73e057021737c645d8fd5') in 0.030204 seconds
+  Import took 0.031987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005780 seconds.
+  path: Assets/SoundController/Scripts/SoundController.cs
+  artifactKey: Guid(1fde8de53ef5ce04382e2d1814871aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SoundController/Scripts/SoundController.cs using Guid(1fde8de53ef5ce04382e2d1814871aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82be8aab01f73e057021737c645d8fd5') in 0.004503 seconds
+  Import took 0.006461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8817.024505 seconds.
+  path: Assets/CollegiateBlackFLF.ttf
+  artifactKey: Guid(c7f9f541cc41bf54089cc8283ca236af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CollegiateBlackFLF.ttf using Guid(c7f9f541cc41bf54089cc8283ca236af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0824042243a5e9d2a3c55eba05142da') in 0.116689 seconds
+  Import took 0.120128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.985157 seconds.
+  path: Assets/CollegiateBlackFLF SDF.asset
+  artifactKey: Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CollegiateBlackFLF SDF.asset using Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: '687b72812ff9a28b4133b18cba435a53') in 0.051614 seconds
+  Import took 0.053429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.528637 seconds.
+  path: Assets/Font.ttf
+  artifactKey: Guid(c7f9f541cc41bf54089cc8283ca236af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font.ttf using Guid(c7f9f541cc41bf54089cc8283ca236af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f1e322be6783ebc1275e9f006cc507') in 0.019335 seconds
+  Import took 0.021796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.797040 seconds.
+  path: Assets/TextMesh Font.asset
+  artifactKey: Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Font.asset using Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: 'bf88447c677b861367ca90ce273e7049') in 0.016387 seconds
+  Import took 0.018568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Assets/TextMesh Font.asset
+  artifactKey: Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Font.asset using Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: 'bf88447c677b861367ca90ce273e7049') in 0.016529 seconds
+  Import took 0.018612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.525276 seconds.
+  path: Assets/Font.asset
+  artifactKey: Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font.asset using Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: 'f6743d37d36bd1024e383e17e322b92b') in 0.019403 seconds
+  Import took 0.023882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001097 seconds.
+  path: Assets/Font.asset
+  artifactKey: Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font.asset using Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: 'f6743d37d36bd1024e383e17e322b92b') in 0.020563 seconds
+  Import took 0.022680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.303516 seconds.
+  path: Assets/Font.asset
+  artifactKey: Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font.asset using Guid(ad2e60c7156d13f4d935330440b39bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: '94bf93f2262134d4a785c6cebce37d36') in 0.045217 seconds
+  Import took 0.047297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.031961 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6121cc340ed628e9d5ab341dee30f1db') in 0.009411 seconds
+  Import took 0.011728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.759164 seconds.
+  path: Assets/Play Button.png
+  artifactKey: Guid(1f5e295a902017943a800e6494ecd2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Play Button.png using Guid(1f5e295a902017943a800e6494ecd2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade0d27377fb5b680c9cff943c352692') in 0.069477 seconds
+  Import took 0.072336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154492.031062 seconds.
+  path: Assets/Play Button.png
+  artifactKey: Guid(1f5e295a902017943a800e6494ecd2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Play Button.png using Guid(1f5e295a902017943a800e6494ecd2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e7e6911a6352bd769f8d404fb59604') in 0.027594 seconds
+  Import took 0.031635 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
